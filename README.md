@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **ARMstm3**
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![HassanSayedHassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HassanSayedHassan&theme=dark)](https://git.io/streak-stats)
 
