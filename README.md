@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Hassan Sayed</h1>
 <h3 align="center">Embedded software Engineer</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=I+am+embedded+software+Engineer+;I'm+Free+lancer+%2C+work+as+Flutter+Developer)](https://git.io/typing-svg)
+
 - 🔭 I’m currently working on **back End with Django**
 
 - 🌱 I’m currently learning **ARMstm3**
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HassanSayedHassan&theme=dark)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
