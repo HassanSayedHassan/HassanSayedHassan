@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassan Sayed</h1>
 <h3 align="center">Software Engineer</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=I+am+embedded+software+Engineer+;I'm+Free+lancer+%2C+work+as+Flutter+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=I+am+software+Engineer+;I'm+Free+lancer+%2C+work+as+Flutter+Developer)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **React.js**
 
