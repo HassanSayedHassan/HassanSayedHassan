@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=I+am+software+Engineer+;I'm+Free+lancer+%2C+work+as+Flutter+Developer)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **React.js**
+
 
 
 
